@@ -1,7 +1,7 @@
 <!-- ANIMATED 3D PROFILE - anilcodematrix -->
 
 <!-- ============================================================ -->
-<!--  HERO BANNER  — animated gradient + 3-D perspective wave    -->
+<!--  HERO BANNER  - animated gradient + 3-D perspective wave    -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -19,14 +19,14 @@
 </div>
 
 <!-- ============================================================ -->
-<!--  ANIMATED WAVE DIVIDER                                      -->
+<!--  ANIMATED GRADIENT LINE                                     -->
 <!-- ============================================================ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3&width=100%" width="100%"/>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--  3-D ROTATING BANNER — TECH IDENTITY                        -->
+<!--  3-D ROTATING BANNER - TECH IDENTITY                        -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -37,7 +37,7 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--  ABOUT ME  — glassmorphism card via HTML table               -->
+<!--  ABOUT ME  - two column layout                              -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -57,11 +57,11 @@ email     : anil.codematrix@gmail.com
 status    : Open to collaborate
 ```
 
-**Currently building:** Full-Stack Web Applications & AI Systems  
-**Currently learning:** React.js · Node.js · Machine Learning · Deep Learning  
-**Looking to collaborate on:** Open Source Projects & AI Applications  
-**Ask me about:** HTML · CSS · JavaScript · Python · AI/ML  
-**Fun fact:** I turn complex problems into simple, elegant solutions  
+**Currently building:** Full-Stack Web Applications & AI Systems
+**Currently learning:** React.js · Node.js · Machine Learning · Deep Learning
+**Looking to collaborate on:** Open Source Projects & AI Applications
+**Ask me about:** HTML · CSS · JavaScript · Python · AI/ML
+**Fun fact:** I turn complex problems into simple, elegant solutions
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -79,12 +79,12 @@ status    : Open to collaborate
 </div>
 
 <!-- ============================================================ -->
-<!--  ANIMATED WAVE SEPARATOR                                    -->
+<!--  WAVE SEPARATOR                                             -->
 <!-- ============================================================ -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7c3aed,100:06b6d4&height=80&section=header&reversal=false" width="100%"/>
 
 <!-- ============================================================ -->
-<!--  3-D SKILLS SHOWCASE                                        -->
+<!--  TECH STACK BANNER                                          -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -94,7 +94,7 @@ status    : Open to collaborate
 
 <br/>
 
-<!-- LANGUAGES -->
+<!-- SKILL ICONS -->
 <div align="center">
 
 **Languages**
@@ -129,7 +129,7 @@ status    : Open to collaborate
 
 <br/>
 
-<!-- ANIMATED SKILL BARS — shields with custom label widths -->
+<!-- SKILL BARS -->
 <div align="center">
 
 | Skill | Level | Bar |
@@ -151,7 +151,7 @@ status    : Open to collaborate
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:06b6d4,100:7c3aed&height=80&section=header&reversal=true" width="100%"/>
 
 <!-- ============================================================ -->
-<!--  GITHUB STATS  — 3-panel layout                             -->
+<!--  GITHUB ANALYTICS BANNER                                    -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -178,9 +178,7 @@ status    : Open to collaborate
 
 </div>
 
-<!-- ============================================================ -->
-<!--  SNAKE CONTRIBUTION ANIMATION                               -->
-<!-- ============================================================ -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
 <picture>
@@ -197,7 +195,7 @@ status    : Open to collaborate
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:7c3aed,100:06b6d4&height=80&section=footer&reversal=false" width="100%"/>
 
 <!-- ============================================================ -->
-<!--  FEATURED PROJECTS  — card grid                             -->
+<!--  FEATURED PROJECTS BANNER                                   -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -227,14 +225,12 @@ status    : Open to collaborate
 
 <br/>
 
-<!-- ============================================================ -->
-<!--  DETAILED PROJECT TABLE                                     -->
-<!-- ============================================================ -->
+<!-- PROJECT TABLE -->
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| [Full-Stack Dev Assignment](https://github.com/anilcodematrix/Full-Stack-Development-Assignment) | Full-stack web projects & assignments covering frontend to backend | HTML · CSS · JavaScript | Active |
+| [Full-Stack Dev Assignment](https://github.com/anilcodematrix/Full-Stack-Development-Assignment) | Full-stack web projects and assignments covering frontend to backend | HTML · CSS · JavaScript | Active |
 | [AI & Technology Concepts](https://github.com/anilcodematrix/Concept-of-AI-and-Technologies) | Hands-on AI/ML notebooks with real implementations | Python · Jupyter · TensorFlow | Active |
 | [Daily AI Agent](https://github.com/anilcodematrix/daily-ai-agent) | GitHub bot that auto-commits daily logs via Actions | Python · GitHub API · Actions | Active |
 
@@ -246,7 +242,7 @@ status    : Open to collaborate
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:06b6d4,100:7c3aed&height=80&section=footer&reversal=true" width="100%"/>
 
 <!-- ============================================================ -->
-<!--  CONNECT  — social links                                    -->
+<!--  CONNECT BANNER                                             -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -279,11 +275,11 @@ status    : Open to collaborate
 <br/>
 
 <!-- ============================================================ -->
-<!--  ANIMATED CODING METRICS                                    -->
+<!--  GITHUB STATS FULL ROW                                      -->
 <!-- ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&text=CODING+METRICS&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=67" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&text=FULL+GITHUB+REPORT&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=67" width="100%"/>
 
 </div>
 
@@ -291,37 +287,34 @@ status    : Open to collaborate
 
 <div align="center">
 
-<!--  WakaTime weekly coding stats — replace with your WakaTime username if you have one -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anilcodematrix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff&layout=compact" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilcodematrix&theme=tokyonight" width="95%"/>
 
 </div>
 
-<br/>
-
-<!-- ============================================================ -->
-<!--  PROFILE METRICS CARD                                       -->
-<!-- ============================================================ -->
-<div align="center">
-
-<img src="https://metrics.lecoq.io/anilcodematrix?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKathmandu&config.style=default&config.twemoji=true&config.gemoji=true&config.octicon=true&config.display_error=true" width="80%"/>
-
-</div>
-
-<!-- ============================================================ -->
-<!--  QUOTE OF THE DAY — animated                               -->
-<!-- ============================================================ -->
 <br/>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code+is+not+just+written%2C+it+is+crafted.&author=Anil+Kumar+Sutihar+Sharma" width="80%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anilcodematrix&theme=tokyonight" width="30%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anilcodematrix&theme=tokyonight" width="30%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anilcodematrix&theme=tokyonight" width="30%"/>
 
 </div>
 
 <br/>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilcodematrix&theme=tokyonight&utcOffset=5.75" width="46%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=anilcodematrix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff&ring_color=7c3aed&include_all_commits=true&custom_title=Full+Contribution+Stats" width="46%"/>
+
+</div>
+
 <!-- ============================================================ -->
-<!--  FOOTER  — animated close banner + view counter            -->
+<!--  FOOTER BANNER - animated waving                           -->
 <!-- ============================================================ -->
 <div align="center">
 
@@ -347,6 +340,4 @@ status    : Open to collaborate
 
 </div>
 
-<!-- ============================================================ -->
-<!--  END OF PROFILE                                             -->
-<!-- ============================================================ -->
+<!-- END OF PROFILE -->
