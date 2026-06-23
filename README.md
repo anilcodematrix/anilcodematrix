@@ -196,55 +196,38 @@ const ANIL = {
 
 ---
 
-<!-- [10] AI CHATBOT SECTION -->
+<!-- [10] LIVE AI CHATBOT — AnilBot -->
 
-<h2 align="center">Ask Anil's AI Assistant</h2>
+<h2 align="center">Chat with Anil's AI — AnilBot</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Hi!+I+am+Anil%27s+AI+assistant+-+AnilBot;Ask+me+anything+about+Anil...;Who+is+Anil%3F+What+does+he+build%3F;How+to+contact+him%3F+I+know+it+all!" alt="chatbot typing"/>
+<a href="https://anilcodematrix.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/LAUNCH_ANILBOT-Chat_with_Anil%27s_AI_Now-7c3aed?style=for-the-badge&logo=googlebard&logoColor=white&labelColor=0d0221" height="50"/>
+</a>
+
+<br/><br/>
+
+<a href="https://anilcodematrix.github.io" target="_blank">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:160b33&height=80&text=Ask%20AnilBot%20Anything%20%E2%86%92&fontSize=22&fontColor=c084fc&animation=fadeIn&desc=Real-time%20AI%20powered%20by%20Gemini%20%7C%20Knows%20everything%20about%20Anil&descSize=13&descAlignY=75&fontAlignY=38" width="100%"/>
+</a>
 
 </div>
 
 <br/>
 
-<details open>
-<summary><b>Chat with Anil's AI — Instant Q&A (click to collapse)</b></summary>
-
-<br/>
-
-> AnilBot — Anil's personal AI assistant. Real answers about Anil:
-
 <div align="center">
 
-| Question | AnilBot Answer |
+| What AnilBot knows | Examples |
 |:---|:---|
-| **Who is Anil?** | Anil Kumar Sutihar Sharma is a Full-Stack Developer and AI Engineer from Kathmandu, Nepal. He builds intelligent web apps that solve real-world problems. |
-| **What does he build?** | AI-powered SaaS apps, full-stack web platforms, open-source tools, ML models, and automation bots. If it involves code and AI, Anil is on it. |
-| **What is his tech stack?** | Python, JavaScript, TypeScript, React, Node.js, TensorFlow, PyTorch, PostgreSQL, MongoDB, Docker, Firebase, and more. |
-| **Is he available to work?** | Yes — open to freelance projects, open-source collaborations, internships, and full-time opportunities. |
-| **How to contact Anil?** | Email: anil.codematrix@gmail.com — LinkedIn and social links are shown in the Connect section below. |
-| **Where is he from?** | Kathmandu, Nepal. Timezone: UTC+5:45. |
-| **What is he learning?** | MLOps, Advanced Deep Learning, RAG (Retrieval-Augmented Generation), LangChain, and Next.js 15. |
-| **What are his projects?** | Full-Stack Development Assignment, Concept of AI and Technologies, and the Daily AI Agent that auto-commits every day. |
-| **What is his passion?** | Turning data into decisions — data tells stories, and Anil makes those stories change the world. |
-| **Any fun facts?** | Anil built a GitHub bot that makes automatic daily commits with AI-generated content and tech tips. |
+| Anil's full background and story | "Who is Anil?" / "Tell me about yourself" |
+| Complete tech stack and skill levels | "What is his tech stack?" / "Does he know React?" |
+| All GitHub projects with links | "What projects has he built?" |
+| Availability and work status | "Is he available to hire?" / "Is he open to freelance?" |
+| Contact info and social links | "How can I contact Anil?" |
+| Current learning and future goals | "What is he learning now?" |
 
 </div>
-
-<br/>
-
-<div align="center">
-
-**Want to talk directly? Reach out now.**
-
-[![Email Anil](https://img.shields.io/badge/Email-anil.codematrix%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anil.codematrix@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-sutihar-sharma-275122316)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anilcodematrix)
-
-</div>
-
-</details>
 
 ---
 
