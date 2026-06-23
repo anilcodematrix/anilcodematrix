@@ -3,42 +3,41 @@
 <!-- ║  3D Animations · AI ChatBot · Particles · Holographic Effects           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ░░░░░░ [0] PARTICLE ANIMATION BACKGROUND (SVG-based) ░░░░░░ -->
+<!-- ░░░░░░ [1] ANIMATED 3D HOLOGRAPHIC BANNER ░░░░░░ -->
 
 <div align="center">
 
-<!-- ANIMATED 3D HOLOGRAPHIC BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:0a0a2e,25:0d0221,50:160b33,75:1a0a3d,100:0d0221&text=Anil%20Kumar%20Sutihar%20Sharma&fontSize=42&fontColor=c084fc&fontAlignY=38&stroke=7c3aed&strokeWidth=4&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open-Source%20Builder&descSize=18&descAlignY=62&animation=fadeIn&rotate=-2" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ░░░░░░ [1] ANIMATED TYPING HEADER ░░░░░░ -->
+<!-- ░░░░░░ [2] ANIMATED TYPING MULTI-ROLE HEADER ░░░░░░ -->
 
 <div align="center">
 
 <a href="https://github.com/anilcodematrix">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=2500&pause=600&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=70&lines=%F0%9F%9A%80+Anil+Kumar+Sutihar+Sharma;%F0%9F%A7%A0+AI+%26+ML+Engineer;%E2%9A%A1+Full-Stack+Developer;%F0%9F%8C%90+Open-Source+Builder;%F0%9F%94%AE+Turning+Data+into+Decisions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=2500&pause=600&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=70&lines=%F0%9F%9A%80+Anil+Kumar+Sutihar+Sharma;%F0%9F%A7%A0+AI+%26+ML+Engineer;%E2%9A%A1+Full-Stack+Developer;%F0%9F%8C%90+Open-Source+Builder+from+Nepal;%F0%9F%94%AE+Turning+Data+into+Decisions" alt="Typing SVG"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ░░░░░░ [2] 3D ANIMATED METRICS STRIP ░░░░░░ -->
+<!-- ░░░░░░ [3] LIVE METRICS STRIP ░░░░░░ -->
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=anilcodematrix&style=for-the-badge&color=7c3aed&label=👁️+PROFILE+VIEWS)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/anilcodematrix?style=for-the-badge&logo=github&label=Followers&color=7c3aed)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=anilcodematrix&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/anilcodematrix?style=for-the-badge&logo=github&label=Followers&color=7c3aed)
 ![Stars](https://img.shields.io/github/stars/anilcodematrix?style=for-the-badge&logo=github&label=Stars&color=a855f7)
 
 </div>
 
 ---
 
-<!-- ░░░░░░ [3] HOLOGRAPHIC 3D ABOUT ME + CODE CARD ░░░░░░ -->
+<!-- ░░░░░░ [4] IDENTITY MATRIX + 3D STATS SIDE BY SIDE ░░░░░░ -->
 
 <table align="center" width="100%">
 <tr>
@@ -50,34 +49,34 @@
 const ANIL = {
   name       : "Anil Kumar Sutihar Sharma",
   alias      : "anilcodematrix",
-  location   : "🇳🇵  Nepal  (UTC+5:45)",
-  role       : "Full-Stack Dev  &  AI Engineer",
+  location   : "Nepal (UTC+5:45)",
+  role       : "Full-Stack Dev & AI Engineer",
   email      : "anil.codematrix@gmail.com",
-  
+
   stack: {
-    frontend : ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend  : ["Node.js", "Express", "FastAPI", "Django"],
-    ai_ml    : ["TensorFlow", "PyTorch", "scikit-learn", "LangChain"],
-    database : ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
-    devops   : ["Docker", "Git", "Linux", "GitHub Actions"],
-    cloud    : ["Firebase", "Vercel", "AWS (Learning)"],
+    frontend : ["React","Next.js","TypeScript","Tailwind"],
+    backend  : ["Node.js","Express","FastAPI","Django"],
+    ai_ml    : ["TensorFlow","PyTorch","scikit-learn"],
+    database : ["PostgreSQL","MongoDB","MySQL","Supabase"],
+    devops   : ["Docker","Git","Linux","GitHub Actions"],
+    cloud    : ["Firebase","Vercel","AWS (Learning)"],
   },
 
   currentFocus : [
-    "🔭 Building  →  Full-Stack AI-Powered SaaS",
-    "📚 Learning  →  MLOps · Deep Learning · RAG",
-    "🤝 Open To  →  Collaborate on OSS & AI Apps",
+    "Building Full-Stack AI-Powered SaaS",
+    "Learning MLOps & Deep Learning & RAG",
+    "Open To collaborate on OSS & AI Apps",
   ],
 
-  funFact : "I turn ☕ + 💡 into production-grade code!",
-  status  : "✅  Open to collaborate & freelance",
+  funFact : "I turn coffee into production-grade code!",
+  status  : "Open to collaborate & freelance",
 };
 ```
 
 </td>
 <td width="45%" valign="top" align="center">
 
-## 📊 3D Stats
+## 📊 Live Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=anilcodematrix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e879f9&border_radius=15&ring_color=7c3aed&include_all_commits=true&count_private=true" width="100%"/>
 
@@ -91,38 +90,33 @@ const ANIL = {
 
 ---
 
-<!-- ░░░░░░ [4] ANIMATED 3D SKILL BARS ░░░░░░ -->
+<!-- ░░░░░░ [5] TECH ARSENAL SKILL BADGES ░░░░░░ -->
 
-<h2 align="center">⚡ Tech Arsenal & Skill Matrix</h2>
+<h2 align="center">⚡ Tech Arsenal and Skill Matrix</h2>
 
 <div align="center">
 
-<!-- Row 1 -->
-![Python](https://img.shields.io/badge/Python-Expert%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- Row 2 -->
-![React](https://img.shields.io/badge/React-Advanced%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-<!-- Row 3 -->
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Intermediate%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<!-- Row 4 - Databases -->
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-<!-- ░░░░░░ [5] ANIMATED 3D TROPHY ROOM ░░░░░░ -->
+<!-- ░░░░░░ [6] ACHIEVEMENT TROPHY ROOM ░░░░░░ -->
 
 <h2 align="center">🏆 Achievement Vault</h2>
 
@@ -134,29 +128,32 @@ const ANIL = {
 
 ---
 
-<!-- ░░░░░░ [6] ANIMATED CONTRIBUTION GRAPH ░░░░░░ -->
+<!-- ░░░░░░ [7] ANIMATED CONTRIBUTION GRAPH ░░░░░░ -->
 
 <h2 align="center">📈 Contribution Universe</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anilcodematrix&bg_color=0d0221&color=c084fc&line=7c3aed&point=a855f7&area_color=7c3aed&area=true&hide_border=true&radius=8&custom_title=🚀+Anil's+Contribution+Timeline" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anilcodematrix&bg_color=0d0221&color=c084fc&line=7c3aed&point=a855f7&area_color=7c3aed&area=true&hide_border=true&radius=8&custom_title=Anil+Contribution+Timeline" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ░░░░░░ [7] PROJECTS SHOWCASE ░░░░░░ -->
+<!-- ░░░░░░ [8] FEATURED PROJECTS SHOWCASE ░░░░░░ -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-<a href="https://github.com/anilcodematrix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anilcodematrix&repo=Full-Stack-Dev&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=12" />
+<a href="https://github.com/anilcodematrix/Full-Stack-Development-Assignment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anilcodematrix&repo=Full-Stack-Development-Assignment&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=12" />
 </a>
-<a href="https://github.com/anilcodematrix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anilcodematrix&repo=AI-Concepts&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=12" />
+<a href="https://github.com/anilcodematrix/Concept-of-AI-and-Technologies">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anilcodematrix&repo=Concept-of-AI-and-Technologies&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=12" />
+</a>
+<a href="https://github.com/anilcodematrix/daily-ai-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anilcodematrix&repo=daily-ai-agent&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_radius=12" />
 </a>
 
 </div>
@@ -165,24 +162,23 @@ const ANIL = {
 
 <div align="center">
 
-| 🔥 Project | 📋 Description | 🛠️ Tech Stack | ⭐ Status |
+| Project | Description | Tech Stack | Status |
 |:---:|:---|:---:|:---:|
-| **Full-Stack Dev** | Full-stack web projects from frontend to backend | HTML · CSS · JS · React | 🟢 Active |
-| **AI Concepts** | Hands-on AI/ML notebooks & deep learning | Python · Jupyter · TF · PyTorch | 🟢 Active |
-| **Daily AI Agent** | GitHub bot that auto-commits daily via Actions | Python · GH API · CRON | 🤖 Automated |
-| **Portfolio** | Personal portfolio with 3D animations | React · Three.js · GSAP | 🚧 Building |
+| **[Full-Stack Dev](https://github.com/anilcodematrix/Full-Stack-Development-Assignment)** | Full-stack web apps: HTML, CSS, JS, PHP, MySQL CRUD | HTML · CSS · JS · PHP | Active |
+| **[AI Concepts](https://github.com/anilcodematrix/Concept-of-AI-and-Technologies)** | AI and ML notebooks: classification, regression, deep learning | Python · Jupyter · TensorFlow | Active |
+| **[Daily AI Agent](https://github.com/anilcodematrix/daily-ai-agent)** | AI Agent that auto-commits daily with quotes and tech tips | Python · GH API · CRON | Automated |
 
 </div>
 
 ---
 
-<!-- ░░░░░░ [8] 3D LANGUAGE STATS ░░░░░░ -->
+<!-- ░░░░░░ [9] LANGUAGE UNIVERSE ░░░░░░ -->
 
 <h2 align="center">💻 Language Universe</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcodematrix&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e879f9&border_radius=15&langs_count=10&hide=html,css" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcodematrix&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e879f9&border_radius=15&langs_count=10" width="45%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilcodematrix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e879f9&border_radius=15&langs_count=8" width="45%"/>
 
@@ -190,52 +186,51 @@ const ANIL = {
 
 ---
 
-<!-- ░░░░░░ [9] AI CHATBOT INTEGRATION ░░░░░░ -->
+<!-- ░░░░░░ [10] AI CHATBOT SECTION ░░░░░░ -->
 
-<h2 align="center">🤖 Chat with Anil's AI Assistant</h2>
+<h2 align="center">🤖 Ask Anil's AI Assistant Anything!</h2>
 
 <div align="center">
 
-<a href="https://anilcodematrix-chatbot.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/💬%20ASK%20ME%20ANYTHING-Chat%20with%20Anil's%20AI%20Bot-7c3aed?style=for-the-badge&logo=robot&logoColor=white&labelColor=0d0221" height="45"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Anil's+AI+assistant!;Ask+me+anything+about+Anil...;Who+is+Anil%3F+What+does+he+build%3F;How+to+contact+him%3F+I+know+it+all!" alt="chatbot typing"/>
 
 </div>
 
 <br/>
 
-<details>
-<summary><b>🤖 Click to Chat with Anil's AI — Quick Q&A</b></summary>
+<details open>
+<summary><b>💬 Chat with Anil's AI — Instant Q&A Bot (Click to expand/collapse)</b></summary>
 
 <br/>
 
-> 💬 **Ask anything about Anil! Here are common questions the bot answers:**
-
-| ❓ Question | 🤖 AI Answer |
-|:---|:---|
-| **Who is Anil?** | Anil Kumar Sutihar Sharma is a Full-Stack Developer & AI Engineer from Nepal 🇳🇵. He specializes in Python, React, Node.js, and Machine Learning. |
-| **What does he build?** | Anil builds AI-powered web apps, full-stack SaaS platforms, open-source tools, and deep learning models. |
-| **How to contact him?** | 📧 anil.codematrix@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/anil-kumar-sutihar-sharma-275122316) · 📸 [Instagram](https://instagram.com/_anilsharma_10) |
-| **Is he open to work?** | ✅ YES! Anil is open to freelance projects, collaborations, and internship/job opportunities. |
-| **What's his tech stack?** | Python · JavaScript · TypeScript · React · Next.js · Node.js · TensorFlow · PyTorch · PostgreSQL · Docker |
-| **Where is he from?** | Kathmandu, Nepal 🇳🇵 (UTC+5:45 timezone) |
-| **What are his projects?** | Full-Stack Dev apps, AI/ML notebooks, a Daily AI GitHub Agent, and more on his [GitHub](https://github.com/anilcodematrix). |
-| **What is he learning?** | Currently mastering MLOps, Deep Learning architectures, RAG systems, and advanced React patterns. |
-
-<br/>
-
-<!-- REAL-TIME CHATBOT WIDGET (loads via iframe for GitHub pages) -->
-
-### 🔴 Live AI ChatBot
-
-> _For a real-time interactive chat experience, visit:_
+> 🤖 **I'm AnilBot — Anil's personal AI assistant. Here are real answers about Anil:**
 
 <div align="center">
 
-[![Chat Now](https://img.shields.io/badge/🚀_LAUNCH_CHATBOT-Talk_to_Anil's_AI_Now-a855f7?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a0a3d)](https://anilcodematrix-chatbot.vercel.app)
+| 🙋 Question | 🤖 AnilBot Answer |
+|:---|:---|
+| **Who is Anil?** | Hi! I'm Anil Kumar Sutihar Sharma — a Full-Stack Developer and AI Engineer from Kathmandu, Nepal. I love building intelligent web apps that solve real problems! |
+| **What does he build?** | I build AI-powered SaaS apps, full-stack web platforms, open-source tools, ML models, and automation bots. If it involves code + AI, I'm on it! |
+| **What is his tech stack?** | Core stack: Python, JavaScript, TypeScript, React, Node.js, TensorFlow, PyTorch, PostgreSQL, MongoDB, Docker, Firebase, and more! |
+| **Is he available to work?** | YES! Currently open to: Freelance projects, open-source collaborations, internships, and full-time opportunities. Let's build something awesome! |
+| **How to contact Anil?** | Email: anil.codematrix@gmail.com · LinkedIn and social links are shown below! |
+| **Where is he from?** | From beautiful Nepal, Kathmandu! Timezone: UTC+5:45 — yes, a unique timezone! |
+| **What is he learning?** | Currently mastering: MLOps, Advanced Deep Learning, RAG (Retrieval-Augmented Generation), LangChain, and Next.js 15 |
+| **What are his projects?** | Full-Stack Dev Assignment, AI and ML Concepts notebooks, and the Daily AI Agent that auto-commits every day |
+| **What is his passion?** | Turning data into decisions — I believe data tells stories, and I'm here to make those stories change the world! |
+| **Any fun facts?** | I turn coffee and ideas into production-grade code! Built a GitHub bot that makes automatic daily commits with AI-generated content! |
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Direct_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779860000000)
-[![Email](https://img.shields.io/badge/Email-anil.codematrix%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anil.codematrix@gmail.com)
+</div>
+
+<br/>
+
+<div align="center">
+
+### Want to talk directly? Reach out now!
+
+[![Email Me](https://img.shields.io/badge/Email_Anil-anil.codematrix%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anil.codematrix@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-kumar-sutihar-sharma-275122316)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_anilcodematrix-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anilcodematrix)
 
 </div>
 
@@ -243,7 +238,7 @@ const ANIL = {
 
 ---
 
-<!-- ░░░░░░ [10] ANIMATED SOCIAL LINKS ░░░░░░ -->
+<!-- ░░░░░░ [11] SOCIAL CONNECT ░░░░░░ -->
 
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -269,7 +264,7 @@ const ANIL = {
 
 ---
 
-<!-- ░░░░░░ [11] 3D ANIMATED SNAKE CONTRIBUTION ░░░░░░ -->
+<!-- ░░░░░░ [12] SNAKE CONTRIBUTION ANIMATION ░░░░░░ -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -285,19 +280,7 @@ const ANIL = {
 
 ---
 
-<!-- ░░░░░░ [12] SPOTIFY / MUSIC VIBE ░░░░░░ -->
-
-<h2 align="center">🎵 Coding Vibe</h2>
-
-<div align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=anilcodematrix&count=3&unique=true" width="60%"/>
-
-</div>
-
----
-
-<!-- ░░░░░░ [13] INSPIRATIONAL QUOTE ROTATOR ░░░░░░ -->
+<!-- ░░░░░░ [13] INSPIRATIONAL QUOTE ░░░░░░ -->
 
 <div align="center">
 
@@ -307,19 +290,16 @@ const ANIL = {
 
 ---
 
-<!-- ░░░░░░ [14] ANIMATED FOOTER ░░░░░░ -->
+<!-- ░░░░░░ [14] ANIMATED 3D FOOTER ░░░░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=130&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20Build%20Something%20Amazing!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+collaborate+—+let's+build+together!;🚀+Always+learning%2C+always+growing..." alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&width=700&lines=Star+my+repos+if+you+find+them+useful!;Open+to+collaborate+lets+build+together!;Always+learning%2C+always+growing...;Made+with+passion+from+Nepal" alt="Footer typing"/>
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║  Made with ❤️ by Anil Kumar Sutihar Sharma           ║ -->
-<!-- ║  anilcodematrix | Nepal 🇳🇵 | AI & Full-Stack Dev    ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
+<!-- Made with love by Anil Kumar Sutihar Sharma | anilcodematrix | Nepal | AI and Full-Stack Dev -->
