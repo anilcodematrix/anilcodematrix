@@ -202,7 +202,7 @@ const ANIL = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Anil's+AI+assistant+—+AnilBot;Ask+me+anything+about+Anil...;Who+is+Anil%3F+What+does+he+build%3F;How+to+contact+him%3F+I+know+it+all!" alt="chatbot typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Hi!+I+am+Anil%27s+AI+assistant+-+AnilBot;Ask+me+anything+about+Anil...;Who+is+Anil%3F+What+does+he+build%3F;How+to+contact+him%3F+I+know+it+all!" alt="chatbot typing"/>
 
 </div>
 
@@ -292,7 +292,7 @@ const ANIL = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&width=700&lines=Star+my+repos+if+you+find+them+useful!;Open+to+collaborate+—+let%27s+build+together!;Always+learning%2C+always+growing...;Made+with+passion+from+Nepal" alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&width=700&lines=Star+my+repos+if+you+find+them+useful!;Open+to+collaborate+-+let%27s+build+together!;Always+learning%2C+always+growing...;Made+with+passion+from+Nepal" alt="footer-typing"/>
 
 </div>
 
