@@ -218,7 +218,7 @@ const ANIL = {
 
 <div align="center">
 
-| What AnilBot knows | Examples |
+| What Anil knows | Examples |
 |:---|:---|
 | Anil's full background and story | "Who is Anil?" / "Tell me about yourself" |
 | Complete tech stack and skill levels | "What is his tech stack?" / "Does he know React?" |
@@ -249,10 +249,6 @@ const ANIL = {
 <a href="https://facebook.com/anil.sharma.440897">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://github.com/anilcodematrix">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
