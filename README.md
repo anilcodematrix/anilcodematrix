@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-**Anil Kumar**<br/>**Sutihar Sharma**
+**Anil **<br/>**Sharma**
 
 <br/>
 
