@@ -111,11 +111,11 @@ const anil = {
 
 | Project | What it does | Stack | Status |
 |:--|:--|:--:|:--:|
-| 🌐 [Portfolio website](https://anilkumarsutiharsharma.com.np) | My personal site, projects and contact | Web | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
-| 🤖 [AnilBot](https://anilcodematrix.github.io) | AI chatbot that answers questions about me, powered by Gemini | HTML · JS · Gemini | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
-| ⚙️ [Daily AI Agent](https://github.com/anilcodematrix/anil-sharma-daily) | Agent that commits a daily log with quotes and tech tips | Python · GitHub API · Cron | ![Automated](https://img.shields.io/badge/-Automated-7c3aed?style=flat-square) |
-| 💻 [Full-Stack Dev](https://github.com/anilcodematrix/Full-Stack-Development-Assignment) | Full-stack web apps with CRUD and MySQL | HTML · CSS · JS · PHP | ![Active](https://img.shields.io/badge/-Active-a855f7?style=flat-square) |
-| 🧠 [AI Concepts](https://github.com/anilcodematrix/Concept-of-AI-and-Technologies) | Notebooks on classification, regression and deep learning | Python · Jupyter · TensorFlow | ![Active](https://img.shields.io/badge/-Active-a855f7?style=flat-square) |
+| <img src="https://cdn.simpleicons.org/googlechrome/a855f7" width="16" height="16" alt="googlechrome"/>&nbsp;[Portfolio website](https://anilkumarsutiharsharma.com.np) | My personal site, projects and contact | Web | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
+| <img src="https://cdn.simpleicons.org/googlegemini/8e75b2" width="16" height="16" alt="googlegemini"/>&nbsp;[AnilBot](https://anilcodematrix.github.io) | AI chatbot that answers questions about me, powered by Gemini | HTML · JS · Gemini | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
+| <img src="https://cdn.simpleicons.org/githubactions/2088ff" width="16" height="16" alt="githubactions"/>&nbsp;[Daily AI Agent](https://github.com/anilcodematrix/anil-sharma-daily) | Agent that commits a daily log with quotes and tech tips | Python · GitHub API · Cron | ![Automated](https://img.shields.io/badge/-Automated-7c3aed?style=flat-square) |
+| <img src="https://cdn.simpleicons.org/php/777bb4" width="16" height="16" alt="php"/>&nbsp;[Full-Stack Dev](https://github.com/anilcodematrix/Full-Stack-Development-Assignment) | Full-stack web apps with CRUD and MySQL | HTML · CSS · JS · PHP | ![Active](https://img.shields.io/badge/-Active-a855f7?style=flat-square) |
+| <img src="https://cdn.simpleicons.org/tensorflow/ff6f00" width="16" height="16" alt="tensorflow"/>&nbsp;[AI Concepts](https://github.com/anilcodematrix/Concept-of-AI-and-Technologies) | Notebooks on classification, regression and deep learning | Python · Jupyter · TensorFlow | ![Active](https://img.shields.io/badge/-Active-a855f7?style=flat-square) |
 
 </div>
 
