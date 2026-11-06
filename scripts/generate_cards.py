@@ -219,7 +219,7 @@ def card_languages(data):
             f'<text x="{px+205}" y="{py}" class="s" text-anchor="end">{pct:.1f}%</text></g>'
         )
     h = 112 + ((len(top) + 1) // 2) * 28
-    return frame(495, max(h, 160), "Most Used Languages", "\n".join(body))
+    return frame(495, max(h, 240), "Most Used Languages", "\n".join(body))
 
 
 def streaks(days):
@@ -276,9 +276,10 @@ def card_streak(data):
             )
         body.append(
             f'<g class="fade" style="animation-delay:{i*150}ms">'
-            f'<text x="{cx}" y="{120 if hi else 118}" class="{"v" if hi else "big"}" text-anchor="middle" '
-            f'style="font-size:{18 if hi else 24}px">{esc(val)}</text>'
-            f'<text x="{cx}" y="166" class="v" text-anchor="middle" style="fill:{TITLE};font-size:13px">{label}</text>'
+            + (f'<text x="{cx}" y="116" class="big" text-anchor="middle" style="font-size:24px">{cur}</text>'
+               f'<text x="{cx}" y="131" class="s" text-anchor="middle">days</text>' if hi else
+               f'<text x="{cx}" y="118" class="big" text-anchor="middle" style="font-size:24px">{esc(val)}</text>')
+            + f'<text x="{cx}" y="166" class="v" text-anchor="middle" style="fill:{TITLE};font-size:13px">{label}</text>'
             f'<text x="{cx}" y="184" class="s" text-anchor="middle" style="font-size:10.5px">{esc(sub)}</text></g>'
         )
     return frame(495, 205, "Contribution Streak", "\n".join(body))
