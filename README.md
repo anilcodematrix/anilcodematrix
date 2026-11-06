@@ -16,7 +16,7 @@
 <br/>
 
 <a href="https://anilkumarsutiharsharma.com.np"><img src="https://img.shields.io/badge/Website-anilkumarsutiharsharma.com.np-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0221" alt="Website"/></a>
-<a href="https://anilcodematrix.github.io"><img src="https://img.shields.io/badge/AnilBot-Chat_with_my_AI-a855f7?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d0221" alt="AnilBot"/></a>
+<a href="https://anilcodematrix.github.io"><img src="https://img.shields.io/badge/Anil_Sharma_AI-Ask_me_anything-a855f7?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d0221" alt="Anil Sharma AI"/></a>
 <a href="mailto:anil.codematrix@gmail.com"><img src="https://img.shields.io/badge/Hire_me-anil.codematrix@gmail.com-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" alt="Email"/></a>
 
 <br/>
@@ -107,12 +107,12 @@ const anil = {
 <a href="https://github.com/anilcodematrix/Full-Stack-Development-Assignment"><img src="https://raw.githubusercontent.com/anilcodematrix/anilcodematrix/output/repo-Full-Stack-Development-Assignment.svg" width="49%" alt="Full-Stack Development"/></a>
 <a href="https://github.com/anilcodematrix/Concept-of-AI-and-Technologies"><img src="https://raw.githubusercontent.com/anilcodematrix/anilcodematrix/output/repo-Concept-of-AI-and-Technologies.svg" width="49%" alt="Concepts of AI"/></a>
 <a href="https://github.com/anilcodematrix/anil-sharma-daily"><img src="https://raw.githubusercontent.com/anilcodematrix/anilcodematrix/output/repo-anil-sharma-daily.svg" width="49%" alt="Daily AI agent"/></a>
-<a href="https://anilcodematrix.github.io"><img src="https://raw.githubusercontent.com/anilcodematrix/anilcodematrix/output/repo-anilcodematrix.github.io.svg" width="49%" alt="AnilBot site"/></a>
+<a href="https://anilcodematrix.github.io"><img src="https://raw.githubusercontent.com/anilcodematrix/anilcodematrix/output/repo-anilcodematrix.github.io.svg" width="49%" alt="Anil Sharma AI site"/></a>
 
 | Project | What it does | Stack | Status |
 |:--|:--|:--:|:--:|
 | <img src="https://cdn.simpleicons.org/googlechrome/a855f7" width="16" height="16" alt="googlechrome"/>&nbsp;[Portfolio website](https://anilkumarsutiharsharma.com.np) | My personal site, projects and contact | Web | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
-| <img src="https://cdn.simpleicons.org/googlegemini/8e75b2" width="16" height="16" alt="googlegemini"/>&nbsp;[AnilBot](https://anilcodematrix.github.io) | AI chatbot that answers questions about me, powered by Gemini | HTML · JS · Gemini | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
+| <img src="https://cdn.simpleicons.org/googlegemini/8e75b2" width="16" height="16" alt="googlegemini"/>&nbsp;[Anil Sharma AI](https://anilcodematrix.github.io) | AI assistant that answers anything, free with no API key | HTML · JS · LLM | ![Live](https://img.shields.io/badge/-Live-22c55e?style=flat-square) |
 | <img src="https://cdn.simpleicons.org/githubactions/2088ff" width="16" height="16" alt="githubactions"/>&nbsp;[Daily AI Agent](https://github.com/anilcodematrix/anil-sharma-daily) | Agent that commits a daily log with quotes and tech tips | Python · GitHub API · Cron | ![Automated](https://img.shields.io/badge/-Automated-7c3aed?style=flat-square) |
 | <img src="https://cdn.simpleicons.org/php/777bb4" width="16" height="16" alt="php"/>&nbsp;[Full-Stack Dev](https://github.com/anilcodematrix/Full-Stack-Development-Assignment) | Full-stack web apps with CRUD and MySQL | HTML · CSS · JS · PHP | ![Active](https://img.shields.io/badge/-Active-a855f7?style=flat-square) |
 | <img src="https://cdn.simpleicons.org/tensorflow/ff6f00" width="16" height="16" alt="tensorflow"/>&nbsp;[AI Concepts](https://github.com/anilcodematrix/Concept-of-AI-and-Technologies) | Notebooks on classification, regression and deep learning | Python · Jupyter · TensorFlow | ![Active](https://img.shields.io/badge/-Active-a855f7?style=flat-square) |
@@ -121,15 +121,15 @@ const anil = {
 
 <!-- ============================ ANILBOT =========================== -->
 
-<h2 align="center">💬 Ask AnilBot</h2>
+<h2 align="center">💬 Chat with Anil Sharma AI</h2>
 
 <div align="center">
 
 <a href="https://anilcodematrix.github.io">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:160b33&height=90&text=Ask%20AnilBot%20anything%20%E2%86%92&fontSize=24&fontColor=c084fc&fontAlignY=40&desc=Real-time%20AI%20powered%20by%20Gemini%20%E2%80%A2%20knows%20my%20skills%2C%20projects%20and%20availability&descSize=13&descAlignY=72&animation=fadeIn" width="100%" alt="Ask AnilBot"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:160b33&height=90&text=Ask%20Anil%20Sharma%20AI%20anything%20%E2%86%92&fontSize=24&fontColor=c084fc&fontAlignY=40&desc=Free%20AI%20assistant%20%E2%80%A2%20ask%20about%20me%2C%20code%2C%20studies%20or%20anything%20else&descSize=13&descAlignY=72&animation=fadeIn" width="100%" alt="Chat with Anil Sharma AI"/>
 </a>
 
-<sub><i>Try:</i> "What is his tech stack?" · "What projects has he built?" · "Is he available to hire?" · "How can I contact Anil?"</sub>
+<sub><i>Try:</i> "What is his tech stack?" · "Is he available to hire?" · "Explain RAG simply" · "Help me debug my Python code"</sub>
 
 </div>
 
