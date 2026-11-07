@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="205" viewBox="0 0 495 205" role="img" aria-label="Contribution Streak">
+<title>Contribution Streak</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d0221"/><stop offset="100%" stop-color="#160b33"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#c084fc"/>
+  </linearGradient>
+</defs>
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c084fc; }
+  .l { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a3a3c2; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #e2e8f0; }
+  .big { font: 800 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #e2e8f0; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a3a3c2; }
+  .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  
+</style>
+<rect x=".5" y=".5" rx="12" width="494" height="204" fill="url(#bg)" stroke="#3b1a6e"/>
+<rect x="24" y="50" width="48" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="24" y="38" class="t">Contribution Streak</text>
+<g class="fade" style="animation-delay:0ms"><text x="87" y="118" class="big" text-anchor="middle" style="font-size:24px">367</text><text x="87" y="166" class="v" text-anchor="middle" style="fill:#c084fc;font-size:13px">Total Contributions</text><text x="87" y="184" class="s" text-anchor="middle" style="font-size:10.5px">Jan 1, 2025 - Present</text></g>
+<line x1="170" y1="80" x2="170" y2="170" stroke="#3b1a6e"/>
+<circle cx="252" cy="112" r="34" fill="none" stroke="url(#accent)" stroke-width="5"/><text x="252" y="78" text-anchor="middle" style="font-size:18px">&#128293;</text>
+<g class="fade" style="animation-delay:150ms"><text x="252" y="116" class="big" text-anchor="middle" style="font-size:24px">139</text><text x="252" y="131" class="s" text-anchor="middle">days</text><text x="252" y="166" class="v" text-anchor="middle" style="fill:#c084fc;font-size:13px">Current Streak</text><text x="252" y="184" class="s" text-anchor="middle" style="font-size:10.5px">Jun 22, 2026 - Nov 7, 2026</text></g>
+<line x1="335" y1="80" x2="335" y2="170" stroke="#3b1a6e"/>
+<g class="fade" style="animation-delay:300ms"><text x="417" y="118" class="big" text-anchor="middle" style="font-size:24px">139 days</text><text x="417" y="166" class="v" text-anchor="middle" style="fill:#c084fc;font-size:13px">Longest Streak</text><text x="417" y="184" class="s" text-anchor="middle" style="font-size:10.5px">Jun 22, 2026 - Nov 7, 2026</text></g>
+</svg>

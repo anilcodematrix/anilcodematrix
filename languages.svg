@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="240" viewBox="0 0 495 240" role="img" aria-label="Most Used Languages">
+<title>Most Used Languages</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d0221"/><stop offset="100%" stop-color="#160b33"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#c084fc"/>
+  </linearGradient>
+</defs>
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c084fc; }
+  .l { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a3a3c2; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #e2e8f0; }
+  .big { font: 800 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #e2e8f0; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a3a3c2; }
+  .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  
+</style>
+<rect x=".5" y=".5" rx="12" width="494" height="239" fill="url(#bg)" stroke="#3b1a6e"/>
+<rect x="24" y="50" width="48" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="24" y="38" class="t">Most Used Languages</text>
+<clipPath id="barclip"><rect x="24" y="72" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#barclip)">
+<rect x="24.0" y="72" width="426.4" height="10" fill="#DA5B0B"/>
+<rect x="449.9" y="72" width="6.6" height="10" fill="#f1e05a"/>
+<rect x="456.0" y="72" width="5.5" height="10" fill="#663399"/>
+<rect x="460.9" y="72" width="4.9" height="10" fill="#e34c26"/>
+<rect x="465.4" y="72" width="3.6" height="10" fill="#3572A5"/>
+<rect x="468.5" y="72" width="3.0" height="10" fill="#4F5D95"/>
+</g>
+<g class="fade" style="animation-delay:0ms"><circle cx="29" cy="108" r="5" fill="#DA5B0B"/><text x="42" y="112" class="l" style="fill:#e2e8f0">Jupyter Notebook</text><text x="229" y="112" class="s" text-anchor="end">95.3%</text></g>
+<g class="fade" style="animation-delay:90ms"><circle cx="259" cy="108" r="5" fill="#f1e05a"/><text x="272" y="112" class="l" style="fill:#e2e8f0">JavaScript</text><text x="459" y="112" class="s" text-anchor="end">1.4%</text></g>
+<g class="fade" style="animation-delay:180ms"><circle cx="29" cy="136" r="5" fill="#663399"/><text x="42" y="140" class="l" style="fill:#e2e8f0">CSS</text><text x="229" y="140" class="s" text-anchor="end">1.1%</text></g>
+<g class="fade" style="animation-delay:270ms"><circle cx="259" cy="136" r="5" fill="#e34c26"/><text x="272" y="140" class="l" style="fill:#e2e8f0">HTML</text><text x="459" y="140" class="s" text-anchor="end">1.0%</text></g>
+<g class="fade" style="animation-delay:360ms"><circle cx="29" cy="164" r="5" fill="#3572A5"/><text x="42" y="168" class="l" style="fill:#e2e8f0">Python</text><text x="229" y="168" class="s" text-anchor="end">0.7%</text></g>
+<g class="fade" style="animation-delay:450ms"><circle cx="259" cy="164" r="5" fill="#4F5D95"/><text x="272" y="168" class="l" style="fill:#e2e8f0">PHP</text><text x="459" y="168" class="s" text-anchor="end">0.6%</text></g>
+</svg>
