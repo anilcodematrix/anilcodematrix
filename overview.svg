@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="240" viewBox="0 0 495 240" role="img" aria-label="Anil&#x27;s GitHub Stats">
+<title>Anil&#x27;s GitHub Stats</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d0221"/><stop offset="100%" stop-color="#160b33"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#c084fc"/>
+  </linearGradient>
+</defs>
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c084fc; }
+  .l { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a3a3c2; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #e2e8f0; }
+  .big { font: 800 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #e2e8f0; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #a3a3c2; }
+  .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  .ring { animation: ring 1.4s ease-out forwards; } @keyframes ring { to { stroke-dashoffset: 26.1; } }
+</style>
+<rect x=".5" y=".5" rx="12" width="494" height="239" fill="url(#bg)" stroke="#3b1a6e"/>
+<rect x="24" y="50" width="48" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="24" y="38" class="t">Anil&#x27;s GitHub Stats</text>
+<g class="fade" style="animation-delay:0ms"><circle cx="30" cy="80" r="4" fill="#a855f7"/><text x="44" y="84" class="l">Total stars earned</text><text x="290" y="84" class="v" text-anchor="end">1</text></g>
+<g class="fade" style="animation-delay:120ms"><circle cx="30" cy="105" r="4" fill="#a855f7"/><text x="44" y="109" class="l">Total commits (all time)</text><text x="290" y="109" class="v" text-anchor="end">355</text></g>
+<g class="fade" style="animation-delay:240ms"><circle cx="30" cy="130" r="4" fill="#a855f7"/><text x="44" y="134" class="l">Pull requests</text><text x="290" y="134" class="v" text-anchor="end">19</text></g>
+<g class="fade" style="animation-delay:360ms"><circle cx="30" cy="155" r="4" fill="#a855f7"/><text x="44" y="159" class="l">Issues</text><text x="290" y="159" class="v" text-anchor="end">0</text></g>
+<g class="fade" style="animation-delay:480ms"><circle cx="30" cy="180" r="4" fill="#a855f7"/><text x="44" y="184" class="l">Public repositories</text><text x="290" y="184" class="v" text-anchor="end">5</text></g>
+<g class="fade" style="animation-delay:600ms"><circle cx="30" cy="205" r="4" fill="#a855f7"/><text x="44" y="209" class="l">Followers</text><text x="290" y="209" class="v" text-anchor="end">5</text></g>
+<circle cx="395" cy="125" r="52" fill="none" stroke="#3b1a6e" stroke-width="8"/><circle cx="395" cy="125" r="52" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90 395 125)" class="ring"/><text x="395" y="129" class="big" text-anchor="middle">380</text><text x="395" y="149" class="s" text-anchor="middle">contributions</text>
+</svg>
